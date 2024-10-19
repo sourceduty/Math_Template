@@ -27,6 +27,8 @@ Ultimately, the custom GPT is a professional tool aimed at anyone who needs assi
 [Math Simulator](https://github.com/sourceduty/Math_Simulator)
 <br>
 [Calendar Math](https://github.com/sourceduty/Calendar_Math)
+<br>
+[Comfort-Navigation Math](https://github.com/sourceduty/Comfort-Navigation_Math)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
