@@ -1,4 +1,4 @@
-![Math Template](https://github.com/user-attachments/assets/da0a1fc4-fc4b-4c07-9247-a460b0c0f556)
+![Math Template](https://github.com/user-attachments/assets/5ea585ca-cc26-4874-bfa8-b034a16f80a9)
 
 > Convert calculations, models and equations into templated math formulas.
 #
