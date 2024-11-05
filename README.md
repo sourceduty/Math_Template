@@ -56,6 +56,8 @@ Mixed measurement standards create inefficiencies across sectors, impacting ever
 [Calendar Math](https://github.com/sourceduty/Calendar_Math)
 <br>
 [Comfort-Navigation Math](https://github.com/sourceduty/Comfort-Navigation_Math)
+<br>
+[Standard Measure](https://github.com/sourceduty/Standard_Measure)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
